@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "image-size": "^0.7.4",
+    "images": "^3.0.2",
+    "kcors": "^2.2.2",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-history-api-fallback": "^1.0.0",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.5.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2-connect-history-api-fallback": "^0.1.2",
+    "koa2-cors": "^2.0.6",
+    "moment": "^2.24.0",
+    "mysql": "^2.16.0",
+    "node-images": "^2.2.1"
+  }
+}
